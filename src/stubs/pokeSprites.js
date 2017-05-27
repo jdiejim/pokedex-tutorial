@@ -715,7 +715,6 @@ import poke714 from '../assets/714.png';
 import poke715 from '../assets/715.png';
 import poke716 from '../assets/716.png';
 import poke717 from '../assets/717.png';
-import poke718 from '../assets/718.png';
 
 let pokeSprites = [
   poke1,
@@ -1435,7 +1434,6 @@ let pokeSprites = [
   poke715,
   poke716,
   poke717,
-  poke718,
 ]
 
 export default pokeSprites;

@@ -1,0 +1,18 @@
+.PokeCard {
+  width: 50%;
+  height: 80%;
+  background-color: #BF024D;
+}
+
+.picture {
+  width: 80%;
+  height: 100px;
+  margin: 50px auto;
+  background-color: black;
+}
+
+.info {
+  width: 80%;
+  margin: 0 auto;
+  background-color: #FFF;
+}

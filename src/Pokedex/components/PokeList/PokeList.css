@@ -1,6 +1,10 @@
 .PokeList {
   display: flex;
-  width: 80%;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  width: 50%;
   height: 80%;
   background-color: #BFF9FF;
+  overflow: scroll;
 }
