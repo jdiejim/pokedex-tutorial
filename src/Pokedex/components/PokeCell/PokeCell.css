@@ -1,4 +1,13 @@
 .PokeCell {
-  width: 45%;
+  width: 43%;
   height: 60px;
+  margin: 10px;
+  background-color: #FFF;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16);
+  text-align: right;
 }

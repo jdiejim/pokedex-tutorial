@@ -1,14 +1,19 @@
 .PokeCard {
   width: 50%;
   height: 80%;
+  padding: 10px;
   background-color: #BF024D;
 }
 
 .picture {
   width: 80%;
-  height: 100px;
-  margin: 50px auto;
-  background-color: black;
+  height: 150px;
+  margin: 10px auto;
+  background-color: #585858;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: 20px solid #FFF;
 }
 
 .info {

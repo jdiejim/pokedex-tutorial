@@ -715,5 +715,4 @@
 {"id":715,"identifier":"noivern","type":"flying","height":12,"weight":607,"attack":"sludge","evolution":"-","defense":"none","evolution_id":0,"evolution":"-"},
 {"id":716,"identifier":"xerneas","type":"fairy","height":12,"weight":607,"attack":"aurora-beam","evolution":"-","defense":"none","evolution_id":0,"evolution":"-"},
 {"id":717,"identifier":"yveltal","type":"dark","height":12,"weight":607,"attack":"light-screen","evolution":"-","defense":"none","evolution_id":0,"evolution":"-"},
-{"id":718,"identifier":"zygarde","type":"dragon","height":12,"weight":606,"attack":"aurora-beam","evolution":"-","defense":"none","evolution_id":0,"evolution":"-"},
-{"id":0,"identifier":"not found","type":"-","height":"-","weight":"-","attack":"-","evolution":"-","defense":"-","evolution_id":"-","evolution":"-"}]
+{"id":718,"identifier":"zygarde","type":"dragon","height":12,"weight":606,"attack":"aurora-beam","evolution":"-","defense":"none","evolution_id":0,"evolution":"-"}]

@@ -3,11 +3,11 @@ import PokeCell from '../PokeCell/PokeCell';
 import './PokeList.css';
 
 function PokeList({pokemon, handler}) {
-  const list = pokemon.map((e, i) => <PokeCell key={i} pokemon={e} display={handler} />);
+  const pokeCellArray = pokemon.map((e, i) => <PokeCell key={i} poke={e} display={handler} />);
 
   return (
     <section className='PokeList'>
-      { list }
+      { pokeCellArray }
     </section>
   )
 }
