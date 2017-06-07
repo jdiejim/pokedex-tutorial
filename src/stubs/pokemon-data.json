@@ -22,7 +22,7 @@
 {"id":22,"identifier":"fearow","type":"normal","height":12,"weight":380,"attack":"bubblebeam","evolution":"-","defense":"cloud-nine","evolution_id":0,"evolution":"-"},
 {"id":23,"identifier":"ekans","type":"poison","height":20,"weight":69,"attack":"swords-dance","evolution":"arbok","defense":"chlorophyll","evolution_id":24,"evolution":"arbok"},
 {"id":24,"identifier":"arbok","type":"poison","height":35,"weight":650,"attack":"withdraw","evolution":"-","defense":"chlorophyll","evolution_id":0,"evolution":"-"},
-{"id":25,"identifier":"pikachu","type":"electric","height":4,"weight":60,"attack":"fly","evolution":"raichu","defense":"sturdy","evolution_id":26,"evolution":"raichu"},
+{"id":25,"identifier":"pikachu","type":"electric","height":4,"weight":60,"attack":"thundershock","evolution":"raichu","defense":"sturdy","evolution_id":26,"evolution":"raichu"},
 {"id":26,"identifier":"raichu","type":"electric","height":8,"weight":300,"attack":"disable","evolution":"-","defense":"sturdy","evolution_id":0,"evolution":"-"},
 {"id":27,"identifier":"sandshrew","type":"ground","height":6,"weight":120,"attack":"bubblebeam","evolution":"sandslash","defense":"volt-absorb","evolution_id":28,"evolution":"sandslash"},
 {"id":28,"identifier":"sandslash","type":"ground","height":10,"weight":295,"attack":"bubblebeam","evolution":"-","defense":"volt-absorb","evolution_id":0,"evolution":"-"},

@@ -20,9 +20,10 @@ function PokeCard({pokemon}) {
     <section className='PokeCard'>
       <div style={pokePicture} className='picture'></div>
       <div className='info'>
-        <h1>{pokemon.name}</h1>
-        <p>{pokemon.type}</p>
-        <p>{pokemon.attack}</p>
+        <h1 className='info-name'>{pokemon.name}</h1>
+        <p className='info-char'>Type: {pokemon.type}</p>
+        <p className='info-char'>Attack: {pokemon.attack}</p>
+        <p className='info-char'>evolution: {pokemon.evolution}</p>
       </div>
     </section>
   )

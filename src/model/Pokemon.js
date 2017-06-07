@@ -4,6 +4,7 @@ class Pokemon {
     this.name = obj.identifier;
     this.type = obj.type;
     this.attack = obj.attack;
+    this.evolution = obj.evolution;
   }
 }
 
